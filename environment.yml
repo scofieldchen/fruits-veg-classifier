@@ -1,0 +1,6 @@
+name: fruits-veg-classifier
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+prefix: /Users/scofield/miniforge3/envs/fruits-veg-classifier
